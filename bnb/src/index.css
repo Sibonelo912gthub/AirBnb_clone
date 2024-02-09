@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.nav {
+  border: 1px solid white;
+  background-color: white;
+  margin-bottom: 3px;
+  /* display: flex; */
+}
+
+.air {
+  width: 90px;
+}
+
+.divider {
+  border: 1px solid #e5e5e5;
+  height: 3px;
+  background-color: #e5e5e5;
+}
+
+.main {
+  background-color: white;
+  display: flex;
+}
+
+.style {
+  display: flex;
+  justify-content: center;
+}
+
+.styling {
+  width: 60%;
+  margin-top: 7px;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+}
+
+.one {
+  height: 400px;
+  border-radius: 5px;
+}
+
+.bottam {
+  margin-left: 30px;
+}
+.rating {
+  display: flex;
+  color: #918e9b;
+}
+
+.two {
+  height: 400px;
+  border-radius: 5px;
+}
+
+.bottem {
+  margin-left: 20px;
+}
+
+.ratinga {
+  display: flex;
+  color: #918e9b;
+}
+
+.star {
+  width: 15px;
+  height: 15px;
+  margin-right: 3px;
+}
+
+.three {
+  height: 400px;
+  border-radius: 5px;
+}
+
+.bottim {
+  margin-left: 20px;
+}
+
+.ratingb {
+  display: flex;
+  color: #918e9b;
+}
+
+.statt {
+  padding-top: 5px;
+}
+
+.stata {
+  padding-top: 4px;
+}
+
+.statb {
+  padding-top: 4px;
+}
